@@ -14,7 +14,3 @@
     $("#alternar_classe").click(function(){
         $("#paragrafo-classes").toggleClass("styling");
     });
-
-
-
-    
